@@ -96,7 +96,7 @@ section {
     line-height: 1.3;
 }
 
-.hero-cta {
+.hero-cta h2 {
     font-style: italic;
     font-size: 55px;
     color: #fce138;
